@@ -28,3 +28,7 @@ npm run dev
 | PATCH | `/api/bookings/:id/cancel` | JWT | Cancel a Pending booking |
 | PATCH | `/api/bookings/:id/status` | JWT (host) | Confirm / Complete / Decline |
 | GET/POST | `/api/wishlist` | JWT | Saved studios |
+
+
+## Server Link
+https://studiospaceserver-two.vercel.app/
